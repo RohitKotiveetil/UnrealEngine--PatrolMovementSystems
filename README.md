@@ -7,4 +7,4 @@ Optimized for Unreal Engine v4.20.
 
 Preview Video: https://www.youtube.com/watch?v=cqtJjax_EHU
 
-This project is licensed under the Unreal Engine 4 EULA.
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
