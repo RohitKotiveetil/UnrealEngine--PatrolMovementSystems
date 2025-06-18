@@ -3,7 +3,7 @@ A blueprint template for adding basic patrol movement capabilities to AI charact
 
 Includes three patrol modes: Guard Location mode, Randomized Search mode, and Designated Routes mode.
 
-Optimized for Unreal Engine 5.0
+Optimized for Unreal Engine 5.6
 
 **Preview:** https://www.youtube.com/watch?v=cqtJjax_EHU
 
